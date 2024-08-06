@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61ffed1a.css",
+    "main.js": "/static/js/main.55f142ca.js",
+    "static/media/nairobi-mega-festival-1200x1600.webp": "/static/media/nairobi-mega-festival-1200x1600.21df407048b0cd7ea48c.webp",
+    "static/media/screenshot-2024-05-13-at-06.14.05-712x707.webp": "/static/media/screenshot-2024-05-13-at-06.14.05-712x707.0fb31b3b62250e0dc9c5.webp",
+    "static/media/team3.webp": "/static/media/team3.e39a87a6a4a439f7bca2.webp",
+    "static/media/screenshot-2024-05-13-at-06.15.31-657x658.webp": "/static/media/screenshot-2024-05-13-at-06.15.31-657x658.693ab6f06f57e6634d1e.webp",
+    "static/media/screenshot-2024-05-13-at-06.06.03-715x714.webp": "/static/media/screenshot-2024-05-13-at-06.06.03-715x714.b72846b241ad29ae4d12.webp",
+    "static/media/screenshot-2024-05-13-at-06.14.05-696x691.webp": "/static/media/screenshot-2024-05-13-at-06.14.05-696x691.fa18a3c9cf31ab6be607.webp",
+    "static/media/queens-of-jazz-2020-785x785.webp": "/static/media/queens-of-jazz-2020-785x785.14eb56391fe505c10e91.webp",
+    "static/media/screenshot-2024-05-13-at-06.06.03-696x695.webp": "/static/media/screenshot-2024-05-13-at-06.06.03-696x695.4ba96aa7f89467293090.webp",
+    "static/media/screenshot-2024-05-13-at-06.15.31-600x601.webp": "/static/media/screenshot-2024-05-13-at-06.15.31-600x601.f1a76e104e80af53e3b0.webp",
+    "static/media/screenshot-2024-05-13-at-06.14.05-600x596.webp": "/static/media/screenshot-2024-05-13-at-06.14.05-600x596.4b4b57c3f62f29f6a624.webp",
+    "static/media/screenshot-2024-05-13-at-06.21.18-585x714.webp": "/static/media/screenshot-2024-05-13-at-06.21.18-585x714.f8d240bd0c4c0ccce992.webp",
+    "static/media/screenshot-2024-05-13-at-06.06.03-600x599.webp": "/static/media/screenshot-2024-05-13-at-06.06.03-600x599.a5820b847a45f8814853.webp",
+    "static/media/mbr-696x508.webp": "/static/media/mbr-696x508.9bc62b8da3746aa47a43.webp",
+    "static/media/screenshot-2024-05-13-at-06.13.11-710x711.webp": "/static/media/screenshot-2024-05-13-at-06.13.11-710x711.6e911010698bb81136af.webp",
+    "static/media/mbr-1076x717.webp": "/static/media/mbr-1076x717.a9fb307d46197612cbea.webp",
+    "static/media/screenshot-2024-05-13-at-06.13.11-696x697.webp": "/static/media/screenshot-2024-05-13-at-06.13.11-696x697.8615c28ecec79eadec6d.webp",
+    "static/media/screenshot-2024-05-13-at-06.13.11-600x601.webp": "/static/media/screenshot-2024-05-13-at-06.13.11-600x601.175a7a0240df984a432b.webp",
+    "static/media/mbr-600x400.webp": "/static/media/mbr-600x400.221e1ac6f1f664a3b845.webp",
+    "static/media/logo-color-1200x1200.webp": "/static/media/logo-color-1200x1200.1f82dff3ed138d52b92d.webp",
+    "static/media/logo-black-1200x1200.webp": "/static/media/logo-black-1200x1200.9d7257476e4b2cde407f.webp",
+    "static/media/logo-white-1200x1200.webp": "/static/media/logo-white-1200x1200.46bd03a35c09b33e2d24.webp",
+    "static/media/logo-white-1076x1076.webp": "/static/media/logo-white-1076x1076.6eead24f80c53962e5c7.webp",
+    "static/media/logo-no-background-128x80.webp": "/static/media/logo-no-background-128x80.051b7d639865239f03c8.webp",
+    "index.html": "/index.html",
+    "main.61ffed1a.css.map": "/static/css/main.61ffed1a.css.map",
+    "main.55f142ca.js.map": "/static/js/main.55f142ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61ffed1a.css",
+    "static/js/main.55f142ca.js"
+  ]
+}
